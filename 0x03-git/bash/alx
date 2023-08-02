@@ -1,1 +1,2 @@
-up_to_date 
+ #!/bin/bash
+echo "ALX School" 
